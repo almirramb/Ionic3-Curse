@@ -14,7 +14,7 @@ export class HomePage {
  //private url:string = 'http://localhost:3030/v1';
  private url:string = 'https://jsonplaceholder.typicode.com/todos/1';
 
- public beers: Array<{}>;
+ public users: Array<{}>;
  
 
   constructor(
@@ -24,7 +24,7 @@ export class HomePage {
      this.http.get(this.url + '/users')
               .map(res => res.json())
               .subscribe(data => {
-                console.log(data);
+                this.users = data;
               })
 
   }

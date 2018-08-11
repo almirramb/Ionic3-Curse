@@ -8,12 +8,22 @@
 </ion-header>
 
 <ion-content padding>
+
+
   <h3>Head My First App</h3>
 
   <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will show you the way.
+    Se você estiver sem idéias, o <a href="http://ionicframework.com/docs/v2">docs</a> pode te ajudar.
   </p>
 
-  <button ion-button primary (click)= "goToTestPage()" >Ir para Test Page</button>
-  <button ion-button secondary menuToggle>Toggle Menu</button>
+
+  
+  <ion-list> 
+      <button ion-item *ngFor="let u of users" > 
+          {{ u.name }} 
+      </button> 
+</ion-list>
+
+
+
 </ion-content>
