@@ -42,9 +42,9 @@ $ git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js
 
 ## Install dependencies
 ### $ `npm install`
-Install dependences of project <br/>
 
 
+&nbps;
 ## Run the app
 ### $ `npm start`
 Runs the app in the development mode.\
