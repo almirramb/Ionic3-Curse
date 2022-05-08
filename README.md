@@ -22,7 +22,7 @@ This project was developed previously for Code3r, found on youtube with the titl
 # Technologies
 In Masterclass this project was developed with javascript language using technology: React_JS
 
-HOWEVER, in my delepoment used:
+However, in my devepoment used:
 Msg-linter and comitzen for semantic version and Convencional Commits;  beyond the VS_Code with snippets. 
 ------------------------------------------------------------------------------------------------------------
    
