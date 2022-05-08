@@ -10,7 +10,7 @@ Aplicativo de página única, que usa cartões com bordas coloridas e o principi
 
 
 # Demo
-![cards page]()
+![cards page](https://github.com/almirramb/Ionic3-Curse/blob/master/ascreenshot.png)
 
 
 --------------------------------------------------------------------------------------
