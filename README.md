@@ -34,7 +34,7 @@ From your command line:
 
 &nbsp;
 ## Clone this repository
-$ git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js
+### $ `git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js`
 
 
 &nbsp;
