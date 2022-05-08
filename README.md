@@ -24,9 +24,10 @@ In Masterclass this project was developed with javascript language using technol
 
 However, in my devepoment used:
 Msg-linter and comitzen for semantic version and Convencional Commits;  beyond the VS_Code with snippets. 
-------------------------------------------------------------------------------------------------------------
-   
 
+ 
+ 
+&nbsp;
 # How To Use
 
 To clone and run this application, you'll need Git, Node.js v10.16 or higher + npm (used version 8.7.0) installed on your computer. 
