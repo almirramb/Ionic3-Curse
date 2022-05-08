@@ -34,12 +34,15 @@ From your command line:
 $ git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js
 
 
+
 ## Go into the repository
 $ cd colorCardsPage-react_js
 
 
+
 ## Install dependencies
 ### $ `npm install`
+
 
 
 ## Run the app
