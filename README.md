@@ -37,11 +37,12 @@ $ git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js
 
 
 ### `Go to repository`
-###$ cd colorCardsPage-react_js
+### cd colorCardsPage-react_js
 
 
 ## Install dependencies
 ### $ `npm install`
+Install dependences of project <br/>
 
 
 ## Run the app
