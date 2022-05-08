@@ -31,15 +31,16 @@ HOWEVER, in my delepoment used:
 To clone and run this application, you'll need Git, Node.js v10.16 or higher + npm (used version 8.7.0) installed on your computer. 
 From your command line:
 
-
+&nbsp;
 ### `Clone this repository`
 $ git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js
 
 
+&nbsp;
 ### `Go to repository`
 ### cd colorCardsPage-react_js
 
-
+&nbsp;
 ## Install dependencies
 ### $ `npm install`
 
