@@ -1,5 +1,5 @@
 # Ionic3-Curse
-#simplecolorCardsPage-react_js
+# simplecolorCardsPage-react_js
 
 #### feat(react): v01-01-000 - React-JS - Inheritance between father and son on bordercolor cards
 
@@ -9,8 +9,9 @@ Aplicativo de página única, que usa cartões com bordas coloridas e o principi
 ---------------------------------------------------------------------------------------------------------
 
 
-Demo on Netlify
-rocket Technologies
+# Demo
+
+
 
 --------------------------------------------------------------------------------------
 
@@ -25,7 +26,7 @@ HOWEVER, in my delepoment used:
 ------------------------------------------------------------------------------------------------------------
    
 
-# information_source How To Use
+# How To Use
 
 To clone and run this application, you'll need Git, Node.js v10.16 or higher + npm (used version 8.7.0) installed on your computer. 
 From your command line:
@@ -55,5 +56,5 @@ You may also see any lint errors in the console.
 
 
 
-memo License
+# License
 This project is under the MIT license. See the LICENSE for more information.
