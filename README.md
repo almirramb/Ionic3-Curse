@@ -32,11 +32,11 @@ To clone and run this application, you'll need Git, Node.js v10.16 or higher + n
 From your command line:
 
 
-### `Clone this repository
+### `Clone this repository`
 $ git clone https://github.com/Almir-git-unifc/colorCardsPage-react_js
 
 
-### `Go to repository
+### `Go to repository`
 ###$ cd colorCardsPage-react_js
 
 
