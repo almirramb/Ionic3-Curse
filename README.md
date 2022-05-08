@@ -18,11 +18,12 @@ Aplicativo de página única, que usa cartões com bordas coloridas e o principi
 This project was developed previously for Code3r, found on youtube with the title """React JS Curso Rápido ⚛️ Masterclass #2 2020 - 100% Prático!"""
 
 
-rocket Technologies
+&nbsp;
+# Technologies
 In Masterclass this project was developed with javascript language using technology: React_JS
 
 HOWEVER, in my delepoment used:
-- Msg-linter and comitzen for semantic version and Convencional Commits;  beyond the VS_Code with snippets. 
+Msg-linter and comitzen for semantic version and Convencional Commits;  beyond the VS_Code with snippets. 
 ------------------------------------------------------------------------------------------------------------
    
 
