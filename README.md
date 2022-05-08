@@ -25,7 +25,7 @@ HOWEVER, in my delepoment used:
 ------------------------------------------------------------------------------------------------------------
    
 
-#information_source How To Use
+# information_source How To Use
 
 To clone and run this application, you'll need Git, Node.js v10.16 or higher + npm (used version 8.7.0) installed on your computer. 
 From your command line:
